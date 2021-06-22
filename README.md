@@ -5,4 +5,4 @@ A fully mobile responsive personal portfolio website that showcases all my skill
 Tech Stack: HTML5, CSS3, Bootstrap, JavaScript.
 
 </br>
-Click here to view my<a href="saiteja-erukude.github.io/Portfolio">portfolio</a>.
+Click here to view my<a href="http://saiteja-erukude.github.io/Portfolio"> portfolio</a>.
